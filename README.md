@@ -126,7 +126,9 @@ python predict.py --record '{"plot_area_ha":"large","rainfall_mm":81,"soil_ph":5
 - `AI_A1_G01_CONTRIBUTIONS.pdf` — Signed contribution statements
 - `AI_A1_G01_UIUX.pdf` — 5-7 page UI/UX design document
 
-## License
-Academic assignment — Musanze HarvestLink Cooperative (fictional)
+## The commands used in order to push the project into the repo
+git add .
+git commit -m "Add Project deliverables"
+git push
 
 # AI_A1_G02
